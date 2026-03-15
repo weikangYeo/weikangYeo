@@ -21,6 +21,7 @@ professional work.
 
 **Senior Software Engineer -> Staff Software Engineer**  
 Omnicom Media Group (a.k.a. Kinesso)
+
 *Nov 2022 – Present*
 
 ***SDLC***
@@ -40,6 +41,7 @@ Omnicom Media Group (a.k.a. Kinesso)
 
 **Senior Software Engineer -> Team Lead**  
 Accenture
+
 *Apr 2020 – Nov 2022*
 
 ***SDLC***
@@ -61,6 +63,7 @@ Accenture
 
 **IT Specialist**  
 IFast Corporation Ltd.
+
 *Sep 2017 – Apr 2020*
 
 ***SDLC***
