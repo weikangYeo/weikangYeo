@@ -29,7 +29,7 @@ Omnicom Media Group (a.k.a. Kinesso)
 - Planned, designed, developed backend solution (that interact with huge data volume) that integrated with front end
   component, and supported & debugged
   production incident.
-- referred https://github.com/WeiKangYeo-KSO (if you curious about my work activity)
+- referred https://github.com/WeiKangYeo-KSO (if you curious about my work profile activity)
 
 ***DevOps***
 
@@ -90,3 +90,5 @@ Grade: 3.83 (First Class Honors)
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/wei-kang-yeo-343419178/)
+
+[![Wei Kang Yeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=weikangYeo)](https://github.com/anuraghazra/github-readme-stats)
