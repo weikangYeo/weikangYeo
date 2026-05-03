@@ -90,5 +90,4 @@ Grade: 3.83 (First Class Honors)
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/wei-kang-yeo-343419178/)
-
-[![Wei Kang Yeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=weikangYeo)](https://github.com/anuraghazra/github-readme-stats)
+![[Wei Kang Yeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=weikangYeo)
