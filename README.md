@@ -7,6 +7,8 @@ cloud infrastructure, and financial technology. I enjoy building scalable system
 real-world problems (included tricky performance issue :) ). My experience spans across fintech, cloud-native
 applications, and data-driven solutions.
 
+[![WeiKang Yeo's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=weikangyeo&layout=compact&theme=radical)]
+
 Not much thing to see in my Github public repo since most of them are personal projects or poc spike that outside
 professional work.
 
@@ -87,10 +89,6 @@ Tunku Abdul Rahman University Of Management and Technology
 
 Grade: 3.83 (First Class Honors)
 
-## Public Repo Overview
-
-
-[![WeiKang Yeo's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=weikangyeo&layout=compact&theme=radical)]
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/wei-kang-yeo-343419178/)
