@@ -31,7 +31,8 @@ Omnicom Media Group (a.k.a. Kinesso)
 - Planned, designed, developed backend solution (that interact with huge data volume) that integrated with front end
   component, and supported & debugged
   production incident.
-- referred https://github.com/WeiKangYeo-KSO (if you curious about my work profile activity)
+- referred https://github.com/WeiKangYeo-KSO (if you curious about my work profile activity, but activity stop after we
+  migrate to enterprise account)
 
 ***DevOps***
 
