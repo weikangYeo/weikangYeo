@@ -88,8 +88,9 @@ Tunku Abdul Rahman University Of Management and Technology
 Grade: 3.83 (First Class Honors)
 
 ## Public Repo Overview
-https://github-readme-stats-fast.vercel.app/api/top-langs/?username=weikangyeo&layout=compact&theme=radical
 
+
+[![WeiKang Yeo's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=weikangyeo&layout=compact&theme=radical)]
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/wei-kang-yeo-343419178/)
